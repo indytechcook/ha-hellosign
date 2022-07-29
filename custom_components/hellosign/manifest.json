@@ -1,0 +1,10 @@
+{
+    "domain": "hellosign",
+    "name": "HelloSign Integration",
+    "codeowners": ["@indytechcook"],
+    "requirements": ["hellosign-python-sdk==4.0.0"],
+    "iot_class": "cloud_push",
+    "config_flow": true,
+    "documentation": "https://github.com/indytechcook/ha-hellosign",
+    "version": "0.0.0"
+  }
