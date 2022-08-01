@@ -1,4 +1,4 @@
-This is a WIP implementnaion of Home Assistant integration with HelloSign
+This is a WIP implementnaion of Home Assistant integration with HelloSign.  The component is here: https://github.com/indytechcook/ha-hellosign/tree/main/custom_components/hellosign
 
 
 Everything below here is from the blueprint readme, I'm' not ready to delete it yet....
