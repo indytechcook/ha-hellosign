@@ -1,3 +1,8 @@
+This is a WIP implementnaion of Home Assistant integration with HelloSign
+
+
+Everything below here is from the blueprint readme, I'm' not ready to delete it yet....
+
 # Notice
 
 The component and platforms in this repository are not meant to be used by a

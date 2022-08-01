@@ -4,3 +4,5 @@ venv
 .venv
 .coverage
 .idea
+secrets.yaml
+*.log

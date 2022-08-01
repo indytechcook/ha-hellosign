@@ -83,3 +83,8 @@ def try_connect(
         return False, err.message, None
 
     return True, None, client
+
+
+class HelloSignConfigEntity:
+    def __init__(config_entity: ConfigEntry):
+        self.api_key = config_entity
